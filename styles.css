@@ -157,6 +157,7 @@ li.completed {
   text-align: center;
   font-size: 15px;
   font-weight: 700;
+  width: 100%;
 }
 
 #task-list {
