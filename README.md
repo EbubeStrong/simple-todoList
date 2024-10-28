@@ -1,4 +1,5 @@
 To-Do List Web Application
+
 This project is a simple, responsive task management web application built with vanilla JavaScript, HTML, and CSS. It allows users to add tasks, mark them as completed, filter tasks, and delete them. Tasks are saved to local storage to ensure they persist across page reloads.
 
 Features
