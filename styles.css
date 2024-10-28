@@ -192,12 +192,20 @@ li.completed {
   flex-direction: column;
   position: relative;
   right: 0;
-  width: 30%;
+  /* width: 30%; */
   padding: 10px;
 }
 
 .edit-btn {
   background-color: #ccc;
+}
+
+.complete-btn{
+  /* font-size: 13px; */
+  text-align: center;
+  /* padding-right: 70px; */
+  /* width: 100%; */
+  /* margin-right: 20px; */
 }
 
 .delete-btn {
